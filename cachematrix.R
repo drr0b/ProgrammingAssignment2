@@ -1,5 +1,5 @@
 ## This set of functions will create a matrix in such a way that
-## the inverse matrix may be solved.
+## the inverse matrix may be solved then cached.
 
 ## The first step is to create a matrix that contains a list of 
 ## functions allowing the caching.. this is makeCacheMatrix
